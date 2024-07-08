@@ -9,7 +9,7 @@ import requests
 
 app = Flask(__name__)
 
-SCRAPER_API_KEY = '2dd1ebf22e3a3d6fbc5435a3d7f46eb5'
+SCRAPER_API_KEY = ''
 MAX_WORKERS = 5  # Numero di thread da usare
 MAX_RETRIES = 5  # Numero massimo di tentativi
 
